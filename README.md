@@ -1,0 +1,2 @@
+# architecture
+Event-Pics architecture
